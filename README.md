@@ -1,6 +1,6 @@
 # Ferramentas de IA Selecionadas
 
-## Art & Creativity
+## Arte & Criatividade
 - **Midjourney**  
   Uso: gerador de arte com IA  
   Link: https://www.midjourney.com/app/  
@@ -17,7 +17,7 @@
   Uso: criação de imagens e arte com IA  
   Link: https://www.lovart.ai/  
 
-## Conversational AI
+## IA Conversacional
 - **ChatGPT (by OpenAI)**  
   Uso: sistema de IA conversacional alimentado por grandes modelos de linguagem  
   Link: https://chat.openai.com/  
@@ -46,7 +46,7 @@
   Uso: ferramenta de pesquisa e síntese de IA para insights rápidos  
   Link: https://app.emergent.sh/  
 
-## Design / Criatividade Visual
+## Design & Criatividade Visual
 - **Interior AI**  
   Uso: mockups de design de interiores e encenação virtual  
   Link: https://interiorai.com/  
@@ -120,7 +120,7 @@
   Uso: ferramentas de IA para designers e profissionais de marketing  
   Link: https://www.getrupert.com/  
 
-## Finance
+## Finanças
 - **GetCount**  
   Uso: contabilidade com IA para pequenas empresas  
   Link: https://getcount.com  
@@ -129,7 +129,7 @@
   Uso: plataforma de dados financeiros com IA que transforma consultas em relatórios  
   Link: https://www.zolaanalytics.com/  
 
-## Education
+## Educação
 - **SlidesAI.io**  
   Uso: ferramenta de texto para apresentação com IA, funciona com Google Slides  
   Link: https://slidesai.io  
@@ -146,7 +146,7 @@
   Uso: conversar com documentos PDF usando IA  
   Link: https://www.chatpdf.com/pt  
 
-## Developer
+## Desenvolvimento
 - **GitHub Copilot**  
   Uso: programador par com IA  
   Link: https://github.com/features/copilot  
@@ -187,7 +187,7 @@
   Uso: automação de workflows com IA  
   Link: https://www.make.com/en  
 
-## Productivity
+## Produtividade
 - **NotionAI**  
   Uso: ferramenta de escrita com IA  
   Link: https://www.notion.so/product/ai  
@@ -212,7 +212,7 @@
   Uso: organização de ideias e notas com inteligência artificial  
   Link: https://www.napkin.ai/  
 
-## Search Engines & Tools
+## Buscadores & Ferramentas
 - **Ask Anything (by Perplexity)**  
   Uso: combina LLMs com mecanismos de busca para responder perguntas  
   Link: https://www.perplexity.ai/  
@@ -229,7 +229,7 @@
   Uso: marketplace e ranking de modelos de IA  
   Link: https://openrouter.ai/rankings  
 
-## Research Tools
+## Ferramentas de Pesquisa
 - **Consensus**  
   Uso: pesquisa com IA para artigos acadêmicos  
   Link: https://consensus.app/  
@@ -238,12 +238,12 @@
   Uso: assistente de pesquisa com IA  
   Link: https://elicit.org/  
 
-## Geospatial
+## Geoespacial
 - **Picterra**  
   Uso: software geoespacial de IA para detecção em imagens de satélite e drones  
   Link: https://picterra.ch/  
 
-## Customer Support
+## Suporte ao Cliente
 - **SiteGPT**  
   Uso: agente de suporte ao cliente com IA  
   Link: https://sitegpt.ai/?ref=Top-AI-Tools  
@@ -252,17 +252,17 @@
   Uso: ChatGPT para sites/chatbots de suporte ao cliente  
   Link: https://gpthelp.ai/?ref=Top-AI-Tools  
 
-## HR
+## Recursos Humanos
 - **Resume Screener AI**  
   Uso: triagem de currículos com IA para pequenas empresas e recrutadores  
   Link: https://resume-screening.com/  
 
-## Audio & Speech
+## Áudio & Voz
 - **ElevenLabs**  
   Uso: geração de voz e áudio realista com IA  
   Link: https://elevenlabs.io/pt  
 
-## Others
+## Outros
 - **WebscrapeAI**  
   Uso: extração de sites sem código usando IA  
   Link: https://webscrapeai.com/  
